@@ -53,5 +53,5 @@ Für den Support eine E-Mail an info@julianzillner.de
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU](https://raw.githubusercontent.com/Education-Manager-DE/Education-Manager/main/LICENSE)
 
