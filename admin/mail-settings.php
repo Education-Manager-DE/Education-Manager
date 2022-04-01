@@ -4,11 +4,11 @@ if(isset($_POST["submit"]))
     require 'class/class.phpmailer.php';
     $mail = new PHPMailer;
     $mail->IsSMTP();      
-    $mail->Host = 'mail.lima-city.de';  
-    $mail->Port = '465';       
+    $mail->Host = '';  
+    $mail->Port = '';       
     $mail->SMTPAuth = true;       
-    $mail->Username = 'info@julianzillner.de';   
-    $mail->Password = 'JulianZillner2006';     
+    $mail->Username = '';   
+    $mail->Password = '';     
     $mail->SMTPSecure = 'ssl';       
     $mail->From = $_POST["email"];     
     $mail->FromName = $_POST["name"];    
