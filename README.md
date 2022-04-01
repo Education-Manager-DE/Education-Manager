@@ -17,7 +17,7 @@ Jetzt wird das Projekt zum Download bereit gestellt, sodass Schulen den Schulman
 
 ## Screenshots
 ![Panel Vorschau](https://user-images.githubusercontent.com/80313417/161330455-7eab4127-81c8-4e49-bdb3-2a960895cfb0.png)
-![Admin Panel Vorschau](https://user-images.githubusercontent.com/80313417/161330826-ee68be1d-da84-4ea4-b9a2-04b7b85a3914.png)
+![Admin Panel Vorschau](https://user-images.githubusercontent.com/80313417/161335267-5c61ab69-af75-4c55-b840-8eb9486b3d39.png)
 
 ## FAQ
 
