@@ -1,0 +1,10 @@
+	#title {
+		position:absolute;
+		top:50%;
+		left:50%;
+		transform:translate(-50%,-50%);
+		font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		color:white;
+		}
+	
+	body {background-color: dodgerblue;}

@@ -1,0 +1,7 @@
+5a: Mathe = Herr Mustermann
+<br>
+6c: Informationstechnologie = Herr Müller
+<br>
+9b: Englisch = Frau Müller
+<br> 
+10a: Biologie = Kein Vertreter

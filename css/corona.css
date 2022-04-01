@@ -1,0 +1,48 @@
+    .fett{
+        font-weight: 600;
+    }
+    .kursiv {
+        font-style: italic;
+    }
+    .block {
+        display: block;
+        width: 100%;
+        text-align:center;
+        background-color: #ffffff;
+        color: #000000;
+    }
+.lizenzLink {
+    color: #c90024 !important;
+}
+    .kleiner {
+        font-size:smaller;
+    }
+   border: 8px solid #c90024;		
+    }
+    .gruen {
+        padding-left: 5px;
+        padding-right: 5px;
+        color: white;
+        background-color: green;
+    }
+    .gelb {
+        padding-left: 5px;
+        padding-right: 5px;
+        color: black;
+        background-color: yellow;
+    }
+    .rot {
+        padding-left: 5px;
+        padding-right: 5px;
+        color: white;
+        background-color: red;
+    }
+    /* Farbverlauf fuer Inzidenzzahl <=100 (normal) */
+    .farbverlauf {
+        background-image: linear-gradient(90deg, green 20%, yellow 33%, yellow 33%, yellow 48%, red 75%); 
+    }
+    /* Farbverlauf fuer Inzidenzzahl >100 (mit 3 weissen Auslassungsstreifen*/
+    .farbverlauf_ext {
+        background-image: linear-gradient(90deg, green 20%, yellow 33%, yellow 33%, yellow 48%, red 75%, red 80.9%, white 81%, white 82%, red 82.1%, red 83%, white 83.1%, white 84%, red 84.1%, red 85%, white 85.1%, white 86%, red 86.1%, rgb(150, 0, 0) 95%); 
+    }/* CSS Document */
+
