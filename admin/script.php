@@ -5,5 +5,5 @@
 ?>
 
 <?php
-header ( 'Location: krankenmeldungen.php' );
+header ('Location: krankenmeldungen.php');
 ?>

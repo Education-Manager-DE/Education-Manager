@@ -1,0 +1,1 @@
+<?php fclose(fopen('../logs/logfile.txt', 'w'));  ?>

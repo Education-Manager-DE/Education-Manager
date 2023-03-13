@@ -2,9 +2,6 @@
 session_start();
 require_once("inc/config.inc.php");
 require_once("inc/functions.inc.php");
-
-//Überprüfe, dass der User eingeloggt ist
-//Der Aufruf von check_user() muss in alle internen Seiten eingebaut sein
 $user = check_user();
 
 include("templates/header.inc.php");
@@ -48,10 +45,11 @@ datum();
 	<br>	
 	<div id="inserttext">
 </div>
-		<!-- Content -->
+	
 <div class="container">
 		<div class="row">
 			<div class="col-md-12">
+				
 				<h2>Unterschrift <p>Erziehungsberechtigten</p></h2>
 			</div>
 		</div>
@@ -214,6 +212,7 @@ datum();
     Beurlaubendes Datum/Uhrzeit: 
     <input type="datetime-local" name="geburtsdatum">
 </label>
+<h3>Grund:_____________________________________</h3>
 <h2>Unterschrift:________________________</h2>
 <br>
 	<br>

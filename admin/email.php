@@ -17,7 +17,6 @@ exit;
 <div style="padding-left:16px">
 <html>
 <head>
-    <title>E-Mail mit PHPMailer senden</title>
 </head>
 <body>
 

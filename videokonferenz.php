@@ -21,7 +21,7 @@ include("templates/header.inc.php");
 		<p>Um beizutreten, klicken sie auf ENTER</p>
 		<br>
 		<hr>
-		<button OnClick=" location.href='https://videokonferenzen.educationmanager-online.de/make/' ">Videokonferenz erstellen</button>    
+		<button OnClick=" location.href='https://educationmanager-online-videkonferenz.julianzillner.repl.co/' ">Videokonferenz erstellen</button>    
 <?php 
 include("templates/footer.inc.php")
 ?>

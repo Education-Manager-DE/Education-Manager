@@ -1,7 +1,7 @@
 
 <?php
  /* Schulinfos */
-$schulname = "Realschule Untergriesbach";
+$schulname = "Realschule Hauzenberg";
 $adresse = "Eckmühlstraße 22";
 $ort = "94051 Hauzenberg";
 

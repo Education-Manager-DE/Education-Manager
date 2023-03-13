@@ -11,6 +11,7 @@
 	<link rel="icon" type="image/png" href="images/favicon.png" sizes="32x32">
 	<link href="https://fonts.googleapis.com/css?family=Nunito400,600,700" rel="stylesheet">
 	<script src="js/videkonferenz.js"></script>
+	<?php require_once("logfile.php"); ?>
   </head>
   <body>
   <nav class="navbar navbar-inverse navbar-static-top">

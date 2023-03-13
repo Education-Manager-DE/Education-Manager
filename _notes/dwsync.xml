@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".htaccess" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808147052853" remote="133136803200000000" Dst="1" />
+<file name="README.md" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808157645749" remote="133136803200000000" Dst="1" />
+<file name="LICENSE" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808158279778" remote="133136803200000000" Dst="1" />
+<file name="abgabe.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808160209648" remote="133136803200000000" Dst="1" />
+<file name="ard-alpha.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808196107317" remote="133136803200000000" Dst="1" />
+<file name="benutzer.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808198109651" remote="133136803200000000" Dst="1" />
+<file name="beurlaubung.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808199655582" remote="133136803200000000" Dst="1" />
+<file name="busfahrplan.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808201542954" remote="133136803200000000" Dst="1" />
+<file name="chat.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808202682962" remote="133136803200000000" Dst="1" />
+<file name="corona-lokal.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808204938038" remote="133136803200000000" Dst="1" />
+<file name="database.sql" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808228087349" remote="133136803200000000" Dst="1" />
+<file name="datei-senden.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808229888625" remote="133136803200000000" Dst="1" />
+<file name="elternbriefe.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808240228133" remote="133136803200000000" Dst="1" />
+<file name="formulare.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808259389634" remote="133136803200000000" Dst="1" />
+<file name="fotogalerie.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808262587976" remote="133136803200000000" Dst="1" />
+<file name="impressum.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808277200418" remote="133136803200000000" Dst="1" />
+<file name="index.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808285872722" remote="133136803200000000" Dst="1" />
+<file name="internal.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808288585699" remote="133136803200000000" Dst="1" />
+<file name="kalender.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808304518004" remote="133136803200000000" Dst="1" />
+<file name="krankenmeldung-upload.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808305834976" remote="133136803200000000" Dst="1" />
+<file name="krankenmeldung.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808309453535" remote="133136803200000000" Dst="1" />
+<file name="lern-tools.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808311271458" remote="133136803200000000" Dst="1" />
+<file name="lern-tv.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808314863860" remote="133136803200000000" Dst="1" />
+<file name="live-event.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808316750513" remote="133136803200000000" Dst="1" />
+<file name="load.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808317694065" remote="133136803200000000" Dst="1" />
+<file name="login.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808320662581" remote="133136803200000000" Dst="1" />
+<file name="logout.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808322017367" remote="133136803200000000" Dst="1" />
+<file name="mediathek.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808324302875" remote="133136803200000000" Dst="1" />
+<file name="notification.html" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808325453276" remote="133136803200000000" Dst="1" />
+<file name="passwortvergessen.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808329486403" remote="133136803200000000" Dst="1" />
+<file name="passwortzuruecksetzen.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808330690716" remote="133136803200000000" Dst="1" />
+<file name="programme.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808346426483" remote="133136803200000000" Dst="1" />
+<file name="rechner.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808348219727" remote="133136803200000000" Dst="1" />
+<file name="register.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808349977358" remote="133136803200000000" Dst="1" />
+<file name="settings.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808351338986" remote="133136803200000000" Dst="1" />
+<file name="upload.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808363222219" remote="133136803200000000" Dst="1" />
+<file name="vertretungsplan.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808365034279" remote="133136803200000000" Dst="1" />
+<file name="videokonferenz.php" server="julianzillner.lima-ftp.de//jugend-forscht/" local="133136808367359697" remote="133136803200000000" Dst="1" />
+</dwsync>

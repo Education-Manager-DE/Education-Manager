@@ -48,6 +48,7 @@ datum();
 <div class="container">
 		<div class="row">
 			<div class="col-md-12">
+				
 				<h2>Unterschrift <p>Erziehungsberechtigten</p></h2>
 				
 			</div>
@@ -186,8 +187,6 @@ datum();
   function clearCanvas() {
     canvas.width = canvas.width;
   }
-
-  // Set up the UI
   var sigText = document.getElementById("sig-dataUrl");
   var sigImage = document.getElementById("sig-image");
   var clearBtn = document.getElementById("sig-clearBtn");

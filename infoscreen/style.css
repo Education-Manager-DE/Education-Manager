@@ -1,0 +1,47 @@
+/* CSS Document */
+@keyframes fadey { 
+0% { opacity: 0; }
+15% { opacity: 1; }
+85% { opacity: 1; }
+100% { opacity: 0; }
+}
+body { 
+  font-family: Avenir, Arial, sans-serif; 
+  margin: 0;
+  font-size: 0;
+}
+figure#slideshow { 
+  width: 80%; 
+  margin: 0 auto; 
+  position: relative; 
+  border: 1px solid #fff;
+  cursor: pointer;
+}
+figure#slideshow img { 
+  position: absolute; 
+  left: 0; top: 0; 
+  width: 100%; height: auto; 
+  opacity: 0; 
+}
+figure#slideshow img:first-child { position: relative; }
+
+#container:fullscreen { 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  background: #fff; 
+}
+#container:-moz-full-screen figure, #container:-ms-full-screen figure, #container:-webkit-fullscreen figure, #container:fullscreen figure { 
+  width: 100%;
+  margin: 0 auto;
+  background: #fff; 
+}
+:-webkit-full-screen { 
+  width: 100%; height: 100%; 
+}
+*:-moz-full-screen { 
+  background: #fff; 
+}
+*:-webkit-full-screen { 
+  background: #fff; 
+}
